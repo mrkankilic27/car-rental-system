@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-formCarList",
+      "appliesTo": "RentaCar-Veritabani-Otamasyon-main/RentACar/formCarList.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-formCarList",
+      "appliesTo": "RentaCar-Veritabani-Otamasyon-main/RentACar/formCarList.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-formCarList",
+      "appliesTo": "RentaCar-Veritabani-Otamasyon-main/RentACar/formCarList.cs",
+      "type": "launch"
+    }
+  ]
+}
