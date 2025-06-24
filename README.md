@@ -32,7 +32,7 @@ This project is intended as a comprehensive car rental management solution for s
 ![Rental Form](Resources/5.PNG)
 
 ### Reports Panel
-![Reports](Resources/Ekran Alintisi.PNG)
+![Reports](Resources/ekran.PNG)
 
 
 ## Technologies Used
