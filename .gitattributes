@@ -1,0 +1,11 @@
+# Normalize line endings
+* text=auto
+
+# C# files
+*.cs linguist-language=C#
+
+# Windows Forms Designer
+*.Designer.cs linguist-generated=true
+
+# Resources
+*.resx linguist-generated=true

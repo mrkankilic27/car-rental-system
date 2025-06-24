@@ -1,0 +1,28 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+*.bak
+*.log
+
+## Build Results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+## NuGet Packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Others
+*.DS_Store
+*.env
+*.pdb
+*.ipch
